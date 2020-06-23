@@ -1,0 +1,25 @@
+backend:
+  name: gitlab
+  repo: rick/ampDocs # Path to your GitLab repository
+  auth_type: implicit # Required for implicit grant
+  app_id: 0ed862717ca6d0d40580c6c0594c391a005a9d3f944612a36728407e0518d067 # Application ID from your GitLab settings
+  api_root: https://git.ieunited.org/api/v4
+  base_url: https://git.ieunited.org
+  auth_endpoint: oauth/authorize
+
+public_folder: "amp/img"
+media_folder: "docs/images"
+publish_mode: editorial_workflow
+
+collections:
+  - name: "doc" # Used in routes, e.g., /admin/collections/blog
+    label: "Doc" # Used in the UI
+    folder: "docs" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", default: false}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "docs"}
+      - {label: "Body", name: "body", widget: "markdown"}

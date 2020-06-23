@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: ampDocs
+theme:
+  name: null
+  custom_dir: 'amp'
+
+copyright: 'copyright <a href="#">amplify</a>'
+
+markdown_extensions:
+  - admonition

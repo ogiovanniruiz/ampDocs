@@ -1,3 +1,10 @@
+---
+title: Home
+date: 2020-06-23T04:17:33.963Z
+thumbnail: false
+layout: docs
+---
+
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
@@ -15,3 +22,5 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+
