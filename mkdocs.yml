@@ -1,9 +1,8 @@
 site_name: ampDocs
-theme:
-  name: null
-  custom_dir: 'amp'
 
 copyright: 'copyright <a href="#">amplify</a>'
+
+dev_addr: '0.0.0.0:8080'
 
 markdown_extensions:
   - admonition

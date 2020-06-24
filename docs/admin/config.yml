@@ -7,7 +7,7 @@ backend:
   base_url: https://git.ieunited.org
   auth_endpoint: oauth/authorize
 
-public_folder: "amp/img"
+public_folder: "docs/uploads"
 media_folder: "docs/images"
 publish_mode: editorial_workflow
 
