@@ -4,7 +4,7 @@ date: 2020-06-22T04:17:33.963Z
 thumbnail: false
 layout: docs
 ---
-# Welcome to MkDocs..
+# Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 
@@ -15,7 +15,7 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 * `mkdocs build` - Build the documentation site.
 * `mkdocs help` - Print this help message.
 
-## Project layout
+## Project layout.
 
 ```
 mkdocs.yml    # The configuration file.
