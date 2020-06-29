@@ -1,64 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae92f068-67d3-4499-9f08-62eed1b35def" name="Default Changelist" comment="">
+    <list default="true" id="ae92f068-67d3-4499-9f08-62eed1b35def" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/docs/admin/netlify-cms.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/content.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/css/base.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/css/bootstrap-custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/css/bootstrap-custom.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/css/cinder.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/css/cinder.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/css/highlight.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/css/highlight.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/img/grid9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/js/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/js/bootstrap-3.0.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/keyboard-modal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/mkdocs_theme.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/nav-sub.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/nav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/search-modal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/toc.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/admin/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/admin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -100,8 +60,19 @@
       <option name="presentableId" value="Default" />
       <updated>1592967456626</updated>
       <workItem from="1592967457697" duration="1784000" />
+      <workItem from="1593018620602" duration="718000" />
+      <workItem from="1593102999939" duration="5614000" />
+      <workItem from="1593192338360" duration="528000" />
+      <workItem from="1593442300278" duration="228000" />
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update with Docker">
+      <created>1593018870596</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593018870596</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="idea update" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea update" />
+    <MESSAGE value="update with Docker" />
+    <option name="LAST_COMMIT_MESSAGE" value="update with Docker" />
   </component>
 </project>

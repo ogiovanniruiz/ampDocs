@@ -7,6 +7,14 @@ backend:
   base_url: https://git.ieunited.org
   auth_endpoint: oauth/authorize
 
+local_backend:
+  # when using a custom proxy server port
+  url: http://localhost:8080/api/v1
+  # when accessing the local site from a host other than 'localhost' or '127.0.0.1'
+  allowed_hosts: ['192.168.0.1']
+
+site_url: http://localhost:8080
+
 public_folder: "docs/uploads"
 media_folder: "docs/images"
 publish_mode: editorial_workflow
