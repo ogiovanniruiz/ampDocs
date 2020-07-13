@@ -4,20 +4,17 @@ date: 2020-06-23T04:17:33.963Z
 thumbnail: false
 layout: docs
 ---
+# Admonition....
 
-# Admonition
-
-[Admonition][1] is an extension included in the standard Markdown library that
+[Admonition](https://python-markdown.github.io/extensions/admonition/) is an extension included in the standard Markdown library that
 makes it possible to add block-styled side content to your documentation, e.g.
 summaries, notes, hints or warnings.
-
-  [1]: https://python-markdown.github.io/extensions/admonition/
 
 ## Configuration
 
 Add the following lines to `mkdocs.yml`:
 
-``` yaml
+```yaml
 markdown_extensions:
   - admonition
 ```
@@ -25,12 +22,12 @@ markdown_extensions:
 ## Usage
 
 Admonitions follow a simple syntax: every block is started with `!!!`, followed
-by a single keyword which is used as the [type qualifier][2] of the block. The
+by a single keyword which is used as the [type qualifier](#types) of the block. The
 content of the block then follows on the next line, indented by four spaces.
 
 Example:
 
-``` markdown
+```markdown
 !!! note
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -41,11 +38,11 @@ Result:
 
 !!! note
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-
-  [2]: #types
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
+```
 
 ### Changing the title
 
@@ -54,7 +51,7 @@ However, it can be changed by adding a quoted string after the type qualifier.
 
 Example:
 
-``` markdown
+```markdown
 !!! note "Phasellus posuere in sem ut cursus"
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -65,18 +62,20 @@ Result:
 
 !!! note "Phasellus posuere in sem ut cursus"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
+```
 
 ### Removing the title
 
-Similar to [changing the title][3], the icon and title can be omitted by
+Similar to [changing the title](#changing-the-title), the icon and title can be omitted by
 providing an empty string after the type qualifier:
 
 Example:
 
-``` markdown
+```markdown
 !!! note ""
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -87,11 +86,11 @@ Result:
 
 !!! note ""
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-
-  [3]: #changing-the-title
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
+```
 
 ### Embedded content
 
@@ -99,50 +98,49 @@ Admonitions can contain all kinds of text content, including headlines, lists,
 paragraphs and other blocks – except code blocks, because the parser from the
 standard Markdown library does not account for those.
 
-The [PyMdown Extensions][4] package adds an extension called [SuperFences][5],
+The [PyMdown Extensions](https://facelessuser.github.io/pymdown-extensions) package adds an extension called [SuperFences](https://facelessuser.github.io/pymdown-extensions/extensions/superfences/),
 which makes it possible to nest code blocks within other blocks, respectively
 Admonition blocks.
-
-  [4]: https://facelessuser.github.io/pymdown-extensions
-  [5]: https://facelessuser.github.io/pymdown-extensions/extensions/superfences/
 
 Example:
 
 !!! note
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+````
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
 
-    ``` mysql
-    SELECT
-      Employees.EmployeeID,
-      Employees.Name,
-      Employees.Salary,
-      Manager.Name AS Manager
-    FROM
-      Employees
-    LEFT JOIN
-      Employees AS Manager
-    ON
-      Employees.ManagerID = Manager.EmployeeID
-    WHERE
-      Employees.EmployeeID = '087652';
-    ```
+``` mysql
+SELECT
+  Employees.EmployeeID,
+  Employees.Name,
+  Employees.Salary,
+  Manager.Name AS Manager
+FROM
+  Employees
+LEFT JOIN
+  Employees AS Manager
+ON
+  Employees.ManagerID = Manager.EmployeeID
+WHERE
+  Employees.EmployeeID = '087652';
+```
 
-    Nunc eu odio eleifend, blandit leo a, volutpat sapien. Phasellus posuere in
-    sem ut cursus. Nullam sit amet tincidunt ipsum, sit amet elementum turpis.
-    Etiam ipsum quam, mattis in purus vitae, lacinia fermentum enim.
+Nunc eu odio eleifend, blandit leo a, volutpat sapien. Phasellus posuere in
+sem ut cursus. Nullam sit amet tincidunt ipsum, sit amet elementum turpis.
+Etiam ipsum quam, mattis in purus vitae, lacinia fermentum enim.
+````
 
 ### Collapsible blocks
 
-The [Details][6] extension which is also part of the [PyMdown Extensions][4]
+The [Details](https://facelessuser.github.io/pymdown-extensions/extensions/details/) extension which is also part of the [PyMdown Extensions](https://facelessuser.github.io/pymdown-extensions)
 package adds support for rendering collapsible Admonition blocks. This is
 useful for FAQs or content that is of secondary nature.
 
 Example:
 
-``` markdown
+```markdown
 ??? note "Phasellus posuere in sem ut cursus"
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -153,14 +151,14 @@ Result:
 
 ??? note "Phasellus posuere in sem ut cursus"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
+```
 
 By adding a `+` sign directly after the start marker, blocks can be rendered
 open by default.
-
-  [6]: https://facelessuser.github.io/pymdown-extensions/extensions/details/
 
 ## Types
 
@@ -173,7 +171,7 @@ type qualifiers, is `note`.
 
 Example:
 
-``` markdown
+```markdown
 !!! note
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -184,9 +182,11 @@ Result:
 
 !!! note
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
+```
 
 Qualifiers:
 
@@ -197,7 +197,7 @@ Qualifiers:
 
 Example:
 
-``` markdown
+```markdown
 !!! abstract
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -208,9 +208,11 @@ Result:
 
 !!! abstract
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
+```
 
 Qualifiers:
 
@@ -222,7 +224,7 @@ Qualifiers:
 
 Example:
 
-``` markdown
+```markdown
 !!! info
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -233,9 +235,11 @@ Result:
 
 !!! info
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
+```
 
 Qualifiers:
 
@@ -246,7 +250,7 @@ Qualifiers:
 
 Example:
 
-``` markdown
+```markdown
 !!! tip
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -257,9 +261,11 @@ Result:
 
 !!! tip
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
+```
 
 Qualifiers:
 
@@ -271,7 +277,7 @@ Qualifiers:
 
 Example:
 
-``` markdown
+```markdown
 !!! success
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -282,9 +288,11 @@ Result:
 
 !!! success
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
+```
 
 Qualifiers:
 
@@ -296,7 +304,7 @@ Qualifiers:
 
 Example:
 
-``` markdown
+```markdown
 !!! question
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -307,9 +315,11 @@ Result:
 
 !!! question
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
+```
 
 Qualifiers:
 
@@ -321,7 +331,7 @@ Qualifiers:
 
 Example:
 
-``` markdown
+```markdown
 !!! warning
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -332,9 +342,11 @@ Result:
 
 !!! warning
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
+```
 
 Qualifiers:
 
@@ -346,7 +358,7 @@ Qualifiers:
 
 Example:
 
-``` markdown
+```markdown
 !!! failure
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -357,9 +369,11 @@ Result:
 
 !!! failure
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
+```
 
 Qualifiers:
 
@@ -371,7 +385,7 @@ Qualifiers:
 
 Example:
 
-``` markdown
+```markdown
 !!! danger
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -382,9 +396,11 @@ Result:
 
 !!! danger
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
+```
 
 Qualifiers:
 
@@ -395,7 +411,7 @@ Qualifiers:
 
 Example:
 
-``` markdown
+```markdown
 !!! bug
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -406,9 +422,11 @@ Result:
 
 !!! bug
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
+```
 
 Qualifiers:
 
@@ -418,7 +436,7 @@ Qualifiers:
 
 Example:
 
-``` markdown
+```markdown
 !!! example
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -429,9 +447,11 @@ Result:
 
 !!! example
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
+```
 
 Qualifiers:
 
@@ -441,7 +461,7 @@ Qualifiers:
 
 Example:
 
-``` markdown
+```markdown
 !!! quote
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -452,9 +472,11 @@ Result:
 
 !!! quote
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+massa, nec semper lorem quam in massa.
+```
 
 Qualifiers:
 
