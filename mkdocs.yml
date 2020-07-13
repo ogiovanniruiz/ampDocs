@@ -4,5 +4,8 @@ copyright: 'copyright <a href="#">amplify</a>'
 
 dev_addr: '0.0.0.0:8080'
 
+theme:
+  name: material
+
 markdown_extensions:
   - admonition
