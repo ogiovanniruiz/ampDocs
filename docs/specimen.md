@@ -4,7 +4,7 @@ date: 2020-06-23T04:17:33.963Z
 thumbnail: false
 layout: docs
 ---
-# Admonition....
+# Admonition-
 
 [Admonition](https://python-markdown.github.io/extensions/admonition/) is an extension included in the standard Markdown library that
 makes it possible to add block-styled side content to your documentation, e.g.
