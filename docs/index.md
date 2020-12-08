@@ -1,25 +1,17 @@
 ---
-title: Home
+title: Login
 date: 2020-06-22T04:17:33.963Z
 thumbnail: false
 layout: docs
 ---
-# Welcome to MkDocs
+# Login
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+Before you're able to go into the Amplify app you have to login. We offer 2 ways of doing so.
 
-## Commands
+The first way is filling out the login form with your **email** and **password**.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+![](docs/uploads/login-step1.jpg)
 
-## Project layout.
+The second way is by login in with your google information.
 
-```
-mkdocs.yml    # The configuration file.
-docs/
-    index.md  # The documentation homepage.
-    ...       # Other markdown pages, images and other files.
-```
+![](docs/uploads/login-step2.jpg)
