@@ -19,11 +19,9 @@ Here are some things to know before you begin this process.
 When you create a Amplify account, you agree to comply with our Terms of Use.
 
 1. Navigate to the register page by clicking **REGISTER** or click **GOOGLE LOGIN** to register using google.
-
 ![](../../images/create-account-step1.jpg)
 
 2. Type in your **First Name**, **Last Name**, **Phone Number**, **Email**, **Password**, and click **Submit**.
-
 ![](../../images/create-account-step2.jpg)
 
 3. Next we'll display a confirmation message. Check your inbox for the account activation email to complete your account setup.
