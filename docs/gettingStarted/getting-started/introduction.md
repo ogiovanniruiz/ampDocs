@@ -4,7 +4,7 @@ date: 2020-12-09T06:13:44.600Z
 thumbnail: false
 layout: docs
 ---
-# Getting started
+# Introduction
 
 ## What is Amplify
 
