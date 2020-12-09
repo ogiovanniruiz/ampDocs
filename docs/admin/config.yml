@@ -31,3 +31,14 @@ collections:
       - {label: "Featured Image", name: "thumbnail", widget: "image", default: false}
       - {label: "Layout", name: "layout", widget: "hidden", default: "docs"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "gettingStarted" # Used in routes, e.g., /admin/collections/blog
+    label: "Getting Started" # Used in the UI
+    folder: "docs/Getting Started" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "getting-started/{{slug}}"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", default: false}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "docs"}
+      - {label: "Body", name: "body", widget: "markdown"}

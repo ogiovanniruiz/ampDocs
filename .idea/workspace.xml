@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae92f068-67d3-4499-9f08-62eed1b35def" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/docs/admin/netlify-cms.js" afterDir="false" />
+    <list default="true" id="ae92f068-67d3-4499-9f08-62eed1b35def" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/admin/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/admin/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +27,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/Extras" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,7 +66,15 @@
       <workItem from="1593018620602" duration="718000" />
       <workItem from="1593102999939" duration="5614000" />
       <workItem from="1593192338360" duration="528000" />
-      <workItem from="1593442300278" duration="228000" />
+      <workItem from="1593442300278" duration="2037000" />
+      <workItem from="1593538803771" duration="505000" />
+      <workItem from="1593621571234" duration="475000" />
+      <workItem from="1594658663467" duration="1512000" />
+      <workItem from="1595006651585" duration="1167000" />
+      <workItem from="1607021570128" duration="1146000" />
+      <workItem from="1607126129541" duration="258000" />
+      <workItem from="1607282416177" duration="166000" />
+      <workItem from="1607360675358" duration="11046000" />
     </task>
     <task id="LOCAL-00002" summary="update with Docker">
       <created>1593018870596</created>
@@ -72,15 +83,36 @@
       <option name="project" value="LOCAL" />
       <updated>1593018870596</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update">
+      <created>1593442577528</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593442577528</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="idea update" />
     <MESSAGE value="update with Docker" />
-    <option name="LAST_COMMIT_MESSAGE" value="update with Docker" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
