@@ -6,7 +6,7 @@ layout: docs
 ---
 # Create A New Organization
 
-1. After creating a new Amplify account you will have to create your organization. To do so, you will have to click the orange pencil button on the right side of the screen.
+1. After creating a new Amplify account you will have to create your organization. To do so, you will have to click the **orange pencil button** on the right side of the screen.
 <br><br>
 ![](../../images/create-org-step1.jpg)
 
