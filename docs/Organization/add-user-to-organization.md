@@ -18,14 +18,14 @@ Here are some things to know before you begin this process.
 
 ## Add Users
 
-1. After creating a new Amplify account you will have to create your organization. To do so, you will have to click the **orange pencil button** on the right side of the screen.
+1. Once a user has made the request to join your organization. You will need to click on the **USERS** button within the organization card.
 <br><br>
-![](../../images/create-org-step1.jpg)
+![](../../images/add-user-org-step1.jpg)
 
-2. Type in your **Organization Name**, **Description** (optional) and click **Submit**.
+2. You will now see all of the users who made a request to join the organization along with with all of the current users. Click the **WAITING APPROVAL** button on the user you wish to add to the organization.
 <br><br>
-![](../../images/create-org-step2.jpg)
+![](../../images/add-user-org-step2.jpg)
 
-3. Once your organization is created, it will be viewable from the home page.
+3. You will now see a drop down asking you to assign permissions of **Admin**, **Lead**, **Volunteer** to the user, or you can simply click **Remove** to withdraw the users request to join the organization.
 <br><br>
-![](../../images/create-org-step3.jpg)
+![](../../images/add-user-org-step3.jpg)
