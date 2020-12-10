@@ -14,7 +14,7 @@ Here are some things to know before you begin this process.
 
 [1]: Organization/add-user-to-organization.md
 
-## Request To Join An Organization
+## Request to join an organization
 
 1. To join an organization you will have to make a request first. To do so, you will have to click the **orange plus button** on the right side of the screen.
 <br><br>
