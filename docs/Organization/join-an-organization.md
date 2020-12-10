@@ -10,7 +10,7 @@ layout: docs
 
 Here are some things to know before you begin this process.
 
-* The user will **only** be making a request to join the organization. Approval is still need from an admin or lead within the organization after you complete this process ([See Add User To Organization][1])
+* The user will **only** be making a request to join the organization. Approval is still needed from an admin or lead within the organization after you complete this process ([See Add User To Organization][1])
 
 [1]: Organization/add-user-to-organization.md
 
