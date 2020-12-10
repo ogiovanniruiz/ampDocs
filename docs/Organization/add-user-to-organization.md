@@ -16,7 +16,7 @@ Here are some things to know before you begin this process.
 
 [1]: Organization/join-an-organization.md
 
-## Add Users
+## Add users
 
 1. Once a user has made the request to join your organization. You will need to click on the **USERS** button within the organization card.
 <br><br>
