@@ -7,5 +7,8 @@ dev_addr: '0.0.0.0:8080'
 theme:
   name: material
 
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions:
   - admonition
