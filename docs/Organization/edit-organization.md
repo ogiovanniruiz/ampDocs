@@ -6,9 +6,9 @@ layout: docs
 ---
 # Edit Organization
 
-After creating a new Amplify account you can edit the Organization Name and Description
+After creating a organization you can edit the organization Name and Description
 
-1. First you will need to click on the orange three men button within the organization card.
+1. First you will need to click on the orange three users button within the organization card.
 <br><br>
 ![](../../images/edit-org-step1.jpg)
 
