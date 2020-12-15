@@ -14,7 +14,7 @@ Here are some things to know before you begin this process.
 
 * You need to be an Admin or Lead to add users to the organization.
 
-[1]: Organization/join-an-organization.md
+[1]: /Organization/add-user-to-organization
 
 ## Add users
 
