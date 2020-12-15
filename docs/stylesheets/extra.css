@@ -10,3 +10,8 @@
 .md-typeset a {
     color: #e0b274 !important;
 }
+
+article > h1 {
+    font-weight: bold !important;
+    color: #000 !important;
+}
