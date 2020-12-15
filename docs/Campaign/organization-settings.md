@@ -33,9 +33,9 @@ First you will need to click the **ENTER** button on the organization settings c
 ## Lead Contact Information
 
 1. Click the **Lead Contact Information** tab to view the contact information to all users assigned as leads ([See Add User To Organization To Assign Users As Leads][1]).
-[1]: Organization/add-user-to-organization.md
 <br><br>
 ![](../../images/org-settings-step5.jpg)
+[1]: /Organization/add-user-to-organization
 
 ## Download Contact History
 
