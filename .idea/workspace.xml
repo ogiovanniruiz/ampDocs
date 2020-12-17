@@ -2,7 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae92f068-67d3-4499-9f08-62eed1b35def" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/admin/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Assets/1. Introduction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Assets/2. Create a COI.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Assets/assets.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/img/grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/js/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/js/jquery-1.10.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/search/lunr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/search/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/search/search_index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/search/worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/sitemap.xml.gz" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +104,7 @@
       <workItem from="1607021570128" duration="1146000" />
       <workItem from="1607126129541" duration="258000" />
       <workItem from="1607282416177" duration="166000" />
-      <workItem from="1607360675358" duration="11315000" />
+      <workItem from="1607360675358" duration="31571000" />
     </task>
     <task id="LOCAL-00002" summary="update with Docker">
       <created>1593018870596</created>
@@ -96,7 +127,49 @@
       <option name="project" value="LOCAL" />
       <updated>1607495264417</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update">
+      <created>1607495470236</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607495470236</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update">
+      <created>1607626433451</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607626433451</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update">
+      <created>1607717512942</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607717512942</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update">
+      <created>1608023053666</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608023053666</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update">
+      <created>1608058471422</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608058471422</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update">
+      <created>1608058668278</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608058668278</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,5 +193,17 @@
     <MESSAGE value="update with Docker" />
     <MESSAGE value="Update" />
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/docs/admin/netlify-cms.js</url>
+          <line>178</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
