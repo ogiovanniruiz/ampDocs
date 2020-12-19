@@ -8,7 +8,7 @@ layout: docs
 
 Targeting is required to Target individual or households by call or text. The targeting module is where you would create and manage your targets.
 
-So first we want to navigate to your [campaign][1] and click "Targeting" to enter into the targeting module.
+So first we want to navigate to your [campaign][1] and click **"Targeting"** to enter into the targeting module.
 [1]: /Campaign/create-a-new-campaign/
 <br><br>
 ![](../../images/targeting-step1.jpg)
