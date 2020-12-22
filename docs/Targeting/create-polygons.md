@@ -14,7 +14,7 @@ layout: docs
 <br><br>
 ![](../../images/targeting-polygon-step2.jpg)
 
-!!! tip "Adjusting the map zoom"
+3. !!! tip "Adjusting the map zoom"
 
     You can use the tools on polygon pane to finish or modify the polygon shape.
     <ul class="md-language-list">
