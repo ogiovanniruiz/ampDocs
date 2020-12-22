@@ -6,9 +6,9 @@ layout: docs
 ---
 # Load Precincts And Blockgroups
 
-!!! warning "Installation on macOS"
+!!! info "INFO"
 
-    Loading precincts and blockgroups is required only need when the "Load Precincts" and "Load Blockgroups" buttons are present on the map. If button are not present you can skip this step
+    Loading precincts and blockgroups is required only need when the **Load Precincts** and "Load Blockgroups" buttons are present on the map. If button are not present you can skip this step
 
 1. So first you want to click the buttons **Load Precincts**, **Load Blockgroups** or both depending on your specifications.
 <br><br>
@@ -20,4 +20,4 @@ layout: docs
 
 3. Now click the **Precinct** or **Blockgroup** check boxes to display or hide the layers on the map.
 <br><br>
-![](../../images/targeting-load-percblocks-step2.jpg)
+![](../../images/targeting-load-percblocks-step3.jpg)
