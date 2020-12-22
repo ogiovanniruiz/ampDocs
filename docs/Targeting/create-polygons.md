@@ -21,8 +21,7 @@ layout: docs
     <li>**Finish** - Finish editing the polygon shape.</li>
     <li>**Delete last point** - Remove the last point on the polygon shape.</li>
     <li>**Cancel** - Cancel creating the polygon shape.</li>
-    <ul>
-
+    </ul>
 ![](../../images/targeting-polygon-step3.jpg)
 
 4. Once your polygon has been drawn out. It will remain red until you register it. To register the polygon shape, click anywhere within the red polygon.
