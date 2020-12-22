@@ -8,7 +8,7 @@ layout: docs
 
 !!! info "INFO"
 
-    Loading precincts and blockgroups is required only need when the **Load Precincts** and "Load Blockgroups" buttons are present on the map. If button are not present you can skip this step
+    Loading precincts and blockgroups is required only need when the **Load Precincts** and **Load Blockgroups** buttons are present on the map. If button are not present you can skip this step
 
 1. So first you want to click the buttons **Load Precincts**, **Load Blockgroups** or both depending on your specifications.
 <br><br>
