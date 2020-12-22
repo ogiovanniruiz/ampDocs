@@ -17,10 +17,11 @@ layout: docs
 !!! tip "Adjusting the map zoom"
 
     You can use the tools on polygon pane to finish or modify the polygon shape.
-    **Finish** - Finish editing the polygon shape.
-    **Delete last point** - Remove the last point on the polygon shape.
-    **Cancel** - Cancel creating the polygon shape.
-<br><br>
+    <ul class="md-language-list">
+    <li>**Finish** - Finish editing the polygon shape.</li>
+    <li>**Delete last point** - Remove the last point on the polygon shape.</li>
+    <li>**Cancel** - Cancel creating the polygon shape.</li>
+    <ul>
 ![](../../images/targeting-polygon-step3.jpg)
 
 3. Once your polygon has been drawn out. It will remain red until you register it. To register the polygon shape, click anywhere within the red polygon.
