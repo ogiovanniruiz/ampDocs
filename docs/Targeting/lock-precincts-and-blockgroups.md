@@ -10,11 +10,15 @@ layout: docs
 
 Here are some things to know before you begin this process.
 
-* Locking a precinct or blockgroup requires you to first have the precinct or blockgroup [registered][1]
+* Locking a precinct or blockgroup requires you to first have the precinct or blockgroup [registered][1].
+
+* In this example we'll use only precincts.
 
 [1]: /Targeting/register-precincts-and-blockgroups
 
-1. First you want to click on the <span style="color:red">red</span> registered precinct or blockgroup (In this example we'll use only precincts)
+## Lock Precincts And Blockgroups (precinct example below)
+
+1. First you want to click on the <span style="color:red">red</span> registered precinct.
 <br><br>
 ![](../../images/targeting-lock-step1.jpg)
 
