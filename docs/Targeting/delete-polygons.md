@@ -14,6 +14,8 @@ Here are some things to know before you begin this process.
 
 [1]: /Targeting/create-polygons
 
+## Delete Polygon
+
 1. First you want to click on the <span style="color:green">green</span> polygon.
 <br><br>
 ![](../../images/targeting-delete-polygon-step1.jpg)
