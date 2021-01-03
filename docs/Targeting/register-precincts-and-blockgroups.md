@@ -10,7 +10,7 @@ layout: docs
 
 Here are some things to know before you begin this process.
 
-* Loading precincts and blockgroups is required only need when the **Load Precincts** and **Load Blockgroups** buttons are present on the map to continue to register. ([See Load Precincts And Blockgroups][1])
+* Loading precincts and blockgroups is required if the **Load Precincts** and **Load Blockgroups** buttons are present on the map to continue to register. ([See Load Precincts And Blockgroups][1])
 
 * Multiple organization can register the same precinct and blockgroup.
 
