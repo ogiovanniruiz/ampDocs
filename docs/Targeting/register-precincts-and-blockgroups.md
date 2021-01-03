@@ -16,11 +16,13 @@ Here are some things to know before you begin this process.
 
 * Registering precincts and blockgroups is required before it can exclusively lock to an organization.
 
+* In this example we'll use only precincts.
+
 [1]: /Targeting/load-precincts-and-blockgroups
 
-## Register Precincts And Blockgroups
+## Register Precincts And Blockgroups (precinct example below)
 
-1. To register a precinct and blockgroup click on any given <span style="color:#3388ff;">blue</span> outline.
+1. To register a precinct click on any given <span style="color:#3388ff;">blue</span> outline.
 <br><br>
 ![](../../images/targeting-register-step1.jpg)
 
@@ -28,6 +30,6 @@ Here are some things to know before you begin this process.
 <br><br>
 ![](../../images/targeting-register-step2.jpg)
 
-3. The outline will turn <span style="color:red">red</span> indicating it has been registered.
+3. The outline will turn <span style="color:red">red</span> indicating the precinct has been registered.
 <br><br>
 ![](../../images/targeting-register-step3.jpg)
