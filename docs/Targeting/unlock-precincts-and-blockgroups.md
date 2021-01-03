@@ -10,11 +10,15 @@ layout: docs
 
 Here are some things to know before you begin this process.
 
-* Unlocking a precinct or blockgroup requires you to first have the precinct or blockgroup [locked][1]
+* Unlocking a precinct or blockgroup requires you to first have the precinct or blockgroup [locked][1].
+
+* In this example we'll use only precincts.
 
 [1]: /Targeting/lock-precincts-and-blockgroups
 
-1. First you want to click on the <span style="color:green">green</span> locked precinct or blockgroup (In this example we'll use only precincts)
+## Unlock Precincts And Blockgroups (precinct example below)
+
+1. First you want to click on the <span style="color:green">green</span> locked precinct.
 <br><br>
 ![](../../images/targeting-unlock-percblock-step1.jpg)
 
