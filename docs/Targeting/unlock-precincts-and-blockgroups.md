@@ -26,6 +26,6 @@ Here are some things to know before you begin this process.
 <br><br>
 ![](../../images/targeting-unlock-percblock-step3.jpg)
 
-4. You will be prompted to confirm that you want to unlock this precinct.
+4. You will be prompted to confirm that you want to unlock the precinct.
 <br><br>
 ![](../../images/targeting-unlock-percblock-step4.jpg)
