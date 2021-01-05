@@ -54,9 +54,13 @@ Click the **assignment** button to pull up the create a target window.
 <br><br>
 ![](../../images/targeting-create-step8.jpg)
 
-9. downloading target available for every campaign by checking the **Campaign Wide** checkbox (optional).
+9. Downloading the target data is available by pressing the **Download** button.
 <br><br>
 ![](../../images/targeting-create-step9.jpg)
+
+10. After you're done setting the target name and rules, you can now create your target by pressing the **CREATE TARGET** button.
+<br><br>
+![](../../images/targeting-create-step10.jpg)
 
 
 [2]: /Targeting/load-precincts-and-blockgroups
