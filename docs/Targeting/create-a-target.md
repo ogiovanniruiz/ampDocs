@@ -42,13 +42,21 @@ Click the **assignment** button to pull up the create a target window.
 <br><br>
 ![](../../images/targeting-create-step5.jpg)
 
-6. We'll also added another rule for **blockgroups** to include the ([locked blockgroups][2]) in previous documentation for this example. This also adds another layer of filter for our results. You can add
+6. We'll also added another rule for **blockgroups** to include the ([locked blockgroups][2]) in previous documentation for this example. This also adds another layer of filter for our results. You can add as many rules as you want. Once your rules are in place you can press the **"# HouseHolds: 0 # Residents: 0"** button to make your calculations.
 <br><br>
 ![](../../images/targeting-create-step6.jpg)
 
-7. In this example we add another .
+7. Your calculations will show how many **HouseHolds** and **Residents** you will be targeting.
 <br><br>
 ![](../../images/targeting-create-step7.jpg)
+
+8. You can also make this target available for every campaign by checking the **Campaign Wide** checkbox (optional).
+<br><br>
+![](../../images/targeting-create-step8.jpg)
+
+9. downloading target available for every campaign by checking the **Campaign Wide** checkbox (optional).
+<br><br>
+![](../../images/targeting-create-step9.jpg)
 
 
 [2]: /Targeting/load-precincts-and-blockgroups
