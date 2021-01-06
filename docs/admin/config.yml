@@ -91,3 +91,27 @@ collections:
       - {label: "Featured Image", name: "thumbnail", widget: "image", default: false}
       - {label: "Layout", name: "layout", widget: "hidden", default: "docs"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "campaignSettings" # Used in routes, e.g., /admin/collections/blog
+    label: "Campaign Settings" # Used in the UI
+    folder: "docs/Campaign Settings" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", default: false}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "docs"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "scripts" # Used in routes, e.g., /admin/collections/blog
+    label: "Scripts" # Used in the UI
+    folder: "docs/Scripts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", default: false}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "docs"}
+      - {label: "Body", name: "body", widget: "markdown"}
