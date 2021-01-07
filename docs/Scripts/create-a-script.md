@@ -18,7 +18,7 @@ Let's add in a **Text** question in this example (Optional)
 <br><br>
 ![](../../images/scripts-step4.jpg)
 
-3. The **SELECT** type question will need at least 1 response to create the script. So, let's choose the script question we added so far.
+3. The **SELECT** type question will need at least 1 response to create the script. So, let's choose the select script question we added so far.
 <br><br>
 ![](../../images/scripts-step5.jpg)
 
@@ -33,33 +33,26 @@ Let's add in a **Text** question in this example (Optional)
 6. You can add multiple **ID types** for each response.
 <br><br>
 ![](../../images/scripts-step8.jpg)
-
-7. You can add multiple **ID types** for each response.
+<br><br>
+The text type question doesn't need and additional information.
 <br><br>
 ![](../../images/scripts-step9.jpg)
 
-
-
-
-6. We'll also added another rule for **blockgroups** to include the ([locked blockgroups][2]) in previous documentation for this example. This also adds another layer of filter for our results. You can add as many rules as you want. Once your rules are in place you can press the **"# HouseHolds: 0 # Residents: 0"** button to make your calculations.
+7. Now press the **CREATE SCRIPT** button to create the script.
 <br><br>
-![](../../images/targeting-create-step6.jpg)
+![](../../images/scripts-step10.jpg)
 
-7. Your calculations will show how many **HouseHolds** and **Residents** you will be targeting.
+8. Your script will now show in the campaign scripts section (Highlighted in <span style="color:green">green</span>).
 <br><br>
-![](../../images/targeting-create-step7.jpg)
+![](../../images/scripts-step11.jpg)
 
-8. You can also make this target available for every campaign by checking the **Campaign Wide** checkbox (optional).
+## Delete and Modify Scripts
+
+1. You can **Edit**, **Archive** or **Delete** your scripts by pressing on the **My Org Scripts** tab.
 <br><br>
-![](../../images/targeting-create-step8.jpg)
+![](../../images/scripts-step12.jpg)
 
-9. Downloading the target data is available by pressing the **Download** button.
+2. Next, choose the method of modification to your script.
 <br><br>
-![](../../images/targeting-create-step9.jpg)
+![](../../images/scripts-step13.jpg)
 
-10. After you're done setting the target name and rules, you can now create your target by pressing the **CREATE TARGET** button.
-<br><br>
-![](../../images/targeting-create-step10.jpg)
-
-
-[2]: /Targeting/load-precincts-and-blockgroups
