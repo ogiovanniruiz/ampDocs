@@ -46,13 +46,3 @@ The text type question doesn't need and additional information.
 <br><br>
 ![](../../images/scripts-step11.jpg)
 
-## Delete and Modify Scripts
-
-1. You can **Edit**, **Archive** or **Delete** your scripts by pressing on the **My Org Scripts** tab.
-<br><br>
-![](../../images/scripts-step12.jpg)
-
-2. Next, choose the method of modification to your script.
-<br><br>
-![](../../images/scripts-step13.jpg)
-
