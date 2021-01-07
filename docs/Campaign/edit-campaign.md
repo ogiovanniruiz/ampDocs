@@ -6,7 +6,7 @@ layout: docs
 ---
 # Edit Campaign
 
-After creating a campaign you can edit the campaign Name and Description
+After creating a campaign you can edit the campaign Name and Description.
 
 1. First you will need to click on the blue campaign button within the campaign card.
 <br><br>
