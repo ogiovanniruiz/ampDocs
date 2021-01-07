@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: Getting Started
 date: 2021-01-07T08:05:46.216Z
 thumbnail: false
 layout: docs
