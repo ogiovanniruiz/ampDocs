@@ -10,7 +10,7 @@ Scripts are required to create phonebanks and textbanks.
 
 Script response sets and non-response sets are both required.
 
-Navigate to your [campaign][1] and click **"Scripts"** to enter into the targeting module.
+Navigate to your [campaign][1] and click **"Scripts"** to enter into the scripts module to begin creating scripts.
 <br><br>
 ![](../../images/scripts-step1.jpg)
 [1]: /Campaign/create-a-new-campaign/
