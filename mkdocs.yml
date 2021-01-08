@@ -1,4 +1,4 @@
-site_name: ampDocs
+site_name: Documentation
 
 copyright: 'copyright <a href="#">amplify</a>'
 
@@ -6,6 +6,49 @@ dev_addr: '0.0.0.0:8080'
 
 theme:
   name: material
+  favicon: overrides/images/favicon.ico
+  logo: overrides/images/logo-white.png
+
+nav:
+  - Introduction: '/'
+  - Getting Started:
+      - Create an Account: 'Getting%20Started/create-an-account/'
+      - Login: 'Getting%20Started/login-1/'
+      - Password Reset: 'Getting%20Started/password-reset/'
+  - Organization:
+      - Create A New Organization: 'Organization/create-a-new-organization/'
+      - Join An Organization: 'Organization/join-an-organization/'
+      - Edit Organization: 'Organization/edit-organization/'
+      - Add User To Organization: 'Organization/add-user-to-organization/'
+  - Campaign:
+      - Create A New Campaign: 'Campaign/create-a-new-campaign/'
+      - Join An Campaign: 'Campaign/join-an-campaign/'
+      - Edit Campaign: 'Campaign/edit-campaign/'
+      - Organization Settings: 'Campaign/organization-settings/'
+      - Twilio Account: 'Campaign/twilio-account/'
+  - Targeting:
+      - Getting Started: 'Targeting/getting-started/'
+      - Load Precincts And Blockgroups: 'Targeting/load-precincts-and-blockgroups/'
+      - Create Polygons: 'Targeting/create-polygons/'
+      - Delete Polygons: 'Targeting/delete-polygons/'
+      - Register Precincts And Blockgroups: 'Targeting/register-precincts-and-blockgroups/'
+      - Lock Precincts And Blockgroupss: 'Targeting/lock-precincts-and-blockgroups/'
+      - Unlock Precincts And Blockgroups: 'Targeting/unlock-precincts-and-blockgroups/'
+      - Search Map: 'Targeting/search-map/'
+      - Create a Target: 'Targeting/create-a-target/'
+      - Target Summary: 'Targeting/summary/'
+  - Scripts:
+      - Getting Started: 'Scripts/getting-started/'
+      - Create A Script: 'Scripts/create-a-script/'
+      - Create A Non-Response Set: 'Scripts/create-a-non-response-set/'
+      - Edit Script: 'Scripts/edit-script/'
+  - Assets:
+      - Introduction: 'Assets/1.%20Introduction/'
+      - Create a COI: 'Assets/2.%20Create%20a%20COI/'
+      - Edit a COI: 'Assets/3.%20Edit%20a%20COI/'
+      - Clone a COI: 'Assets/4.%20Clone%20a%20COI/'
+  - Campaign Settings:
+      - Campaign Settings: 'Campaign%20Settings/campaign-settings/'
 
 extra_css:
   - stylesheets/extra.css

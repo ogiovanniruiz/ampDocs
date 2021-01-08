@@ -15,3 +15,8 @@ article > h1 {
     font-weight: bold !important;
     color: #000 !important;
 }
+
+
+.md-header-nav__button.md-logo img, .md-header-nav__button.md-logo svg {
+    width: inherit !important;
+}
