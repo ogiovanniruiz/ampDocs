@@ -26,6 +26,13 @@ nav:
       - Edit Campaign: 'Campaign/edit-campaign/'
       - Organization Settings: 'Campaign/organization-settings/'
       - Twilio Account: 'Campaign/twilio-account/'
+  - Campaign Settings:
+      - Campaign Settings: 'Campaign%20Settings/campaign-settings/'
+  - Scripts:
+      - Getting Started: 'Scripts/getting-started/'
+      - Create A Script: 'Scripts/create-a-script/'
+      - Create A Non-Response Set: 'Scripts/create-a-non-response-set/'
+      - Edit Script: 'Scripts/edit-script/'
   - Targeting:
       - Getting Started: 'Targeting/getting-started/'
       - Load Precincts And Blockgroups: 'Targeting/load-precincts-and-blockgroups/'
@@ -37,18 +44,11 @@ nav:
       - Search Map: 'Targeting/search-map/'
       - Create a Target: 'Targeting/create-a-target/'
       - Target Summary: 'Targeting/summary/'
-  - Scripts:
-      - Getting Started: 'Scripts/getting-started/'
-      - Create A Script: 'Scripts/create-a-script/'
-      - Create A Non-Response Set: 'Scripts/create-a-non-response-set/'
-      - Edit Script: 'Scripts/edit-script/'
   - Assets:
       - Introduction: 'Assets/1.%20Introduction/'
       - Create a COI: 'Assets/2.%20Create%20a%20COI/'
       - Edit a COI: 'Assets/3.%20Edit%20a%20COI/'
       - Clone a COI: 'Assets/4.%20Clone%20a%20COI/'
-  - Campaign Settings:
-      - Campaign Settings: 'Campaign%20Settings/campaign-settings/'
 
 extra_css:
   - stylesheets/extra.css
