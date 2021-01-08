@@ -1,5 +1,5 @@
 ---
-title: Getting Sstarted
+title: Getting Started
 date: 2020-12-18T21:48:02.873Z
 thumbnail: false
 layout: docs
