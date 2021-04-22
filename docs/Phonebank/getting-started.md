@@ -8,5 +8,5 @@ layout: docs
 
 Navigate to your [campaign][1] and click **"Phonebank"** to enter into the phonebank module to begin creating activities.
 <br><br>
-![](../../images/scripts-step1.jpg)
+![](../../images/phonebank-step1.jpg)
 [1]: /Campaign/create-a-new-campaign/
