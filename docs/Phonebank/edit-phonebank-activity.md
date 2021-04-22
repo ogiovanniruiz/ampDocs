@@ -12,4 +12,4 @@ layout: docs
 
 2. A prompt will come up letting you edit information as well as reset the activity, generate a user link a, delete and complete the activity. Once you change the **Activity Name**, **Description**, **Orgs** and **Users** to something more desirable, go ahead and click **Save** button to save the edits. Now you're all done!
 <br><br>
-![](../../images/edit-campaign-step2.jpg)
+![](../../images/edit-phonebank-step2.jpg)
