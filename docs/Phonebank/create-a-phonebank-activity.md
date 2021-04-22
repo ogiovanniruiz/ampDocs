@@ -1,10 +1,10 @@
 ---
-title: Create A Phonebank Activity
+title: Create Phonebank Activity
 date: 2021-04-22T19:16:00.000Z
 thumbnail: false
 layout: docs
 ---
-# Create A Activity
+# Create Activity
 
 ## Before you start
 
