@@ -44,6 +44,14 @@ nav:
       - Search Map: 'Targeting/search-map/'
       - Create a Target: 'Targeting/create-a-target/'
       - Target Summary: 'Targeting/summary/'
+  - Phonebank:
+      - Getting Started: 'Phonebank/getting-started/'
+      - Create Activity: 'Phonebank/create-activity/'
+      - Edit Activity: 'Phonebank/edit-activity/'
+      - Generate User Link: 'Phonebank/generate-user-link/'
+      - Phonebank Targets: 'Phonebank/phonebank-targets/'
+      - Reset Activity: 'Phonebank/reset-activity/'
+      - Unlock All Numbers: 'Phonebank/unlock-all-numbers/'
   - Assets:
       - Introduction: 'Assets/1.%20Introduction/'
       - Create a COI: 'Assets/2.%20Create%20a%20COI/'

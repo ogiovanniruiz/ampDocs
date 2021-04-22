@@ -3,8 +3,8 @@ backend:
   repo: rick/ampDocs # Path to your GitLab repository
   auth_type: implicit # Required for implicit grant
   app_id: 0ed862717ca6d0d40580c6c0594c391a005a9d3f944612a36728407e0518d067 # Application ID from your GitLab settings
-  api_root: https://git.ieunited.org/api/v4
-  base_url: https://git.ieunited.org
+  api_root: https://git.cfost.org/api/v4
+  base_url: https://git.cfost.org
   auth_endpoint: oauth/authorize
 
 local_backend:

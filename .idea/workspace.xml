@@ -1,39 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae92f068-67d3-4499-9f08-62eed1b35def" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Assets/1. Introduction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Assets/2. Create a COI.md" afterDir="false" />
+    <list default="true" id="ae92f068-67d3-4499-9f08-62eed1b35def" name="Default Changelist" comment="updates">
+      <change afterPath="$PROJECT_DIR$/docs/Phonebank/create-activity.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Phonebank/edit-activity.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Phonebank/phonebank-targets.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/create-phonebank-step1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/create-phonebank-step2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/create-phonebank-step3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/edit-phonebank-step1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/edit-phonebank-step2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/link-phonebank-step1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/link-phonebank-step2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/phonebank-step1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/phonebank-step2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/phonebank-step3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/phonebank-step4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/phonebank-step5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/phonebank-step6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/phonebank-step7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/reset-phonebank-step1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/reset-phonebank-step2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/unlock-nums-phonebank-step1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/images/unlock-nums-phonebank-step2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Assets/assets.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/img/grid.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/js/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/js/jquery-1.10.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/search/lunr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/search/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/search/search_index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/search/worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/sitemap.xml.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Phonebank/create-a-phonebank-activity.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Phonebank/edit-phonebank-activity.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Phonebank/phonebank-a-target.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/admin/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +55,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/docs/Extras" />
     </key>
   </component>
@@ -73,6 +69,16 @@
           <option name="name" value="StatusDashboardGroupingRule" />
         </RuleState>
       </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -104,7 +110,14 @@
       <workItem from="1607021570128" duration="1146000" />
       <workItem from="1607126129541" duration="258000" />
       <workItem from="1607282416177" duration="166000" />
-      <workItem from="1607360675358" duration="31571000" />
+      <workItem from="1607360675358" duration="38817000" />
+      <workItem from="1609887270519" duration="1990000" />
+      <workItem from="1610039985417" duration="4924000" />
+      <workItem from="1610096977720" duration="3872000" />
+      <workItem from="1610654248548" duration="480000" />
+      <workItem from="1611077747291" duration="331000" />
+      <workItem from="1611530651832" duration="486000" />
+      <workItem from="1618875746608" duration="6716000" />
     </task>
     <task id="LOCAL-00002" summary="update with Docker">
       <created>1593018870596</created>
@@ -169,7 +182,126 @@
       <option name="project" value="LOCAL" />
       <updated>1608058668278</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="merge">
+      <created>1608232200582</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608232200582</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update">
+      <created>1609901000861</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609901000861</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update">
+      <created>1610040116714</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1610040116714</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update">
+      <created>1610041841915</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1610041841915</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update">
+      <created>1610054099483</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1610054099483</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Image compress and 404 fix">
+      <created>1610096404122</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1610096404122</updated>
+    </task>
+    <task id="LOCAL-00017" summary="404 fix">
+      <created>1610097013474</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1610097013474</updated>
+    </task>
+    <task id="LOCAL-00018" summary="image compressed">
+      <created>1610097058512</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1610097058512</updated>
+    </task>
+    <task id="LOCAL-00019" summary="image compressed">
+      <created>1610097637427</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1610097637427</updated>
+    </task>
+    <task id="LOCAL-00020" summary="image compressed">
+      <created>1610097870271</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1610097870271</updated>
+    </task>
+    <task id="LOCAL-00021" summary="image compressed">
+      <created>1610097895931</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1610097895931</updated>
+    </task>
+    <task id="LOCAL-00022" summary="image compressed">
+      <created>1610097934915</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1610097934915</updated>
+    </task>
+    <task id="LOCAL-00023" summary="image compressed">
+      <created>1610097964949</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1610097964949</updated>
+    </task>
+    <task id="LOCAL-00024" summary="image compressed">
+      <created>1610098005875</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1610098005875</updated>
+    </task>
+    <task id="LOCAL-00025" summary="updates">
+      <created>1610139379167</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1610139379167</updated>
+    </task>
+    <task id="LOCAL-00026" summary="updates">
+      <created>1610141512261</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1610141512261</updated>
+    </task>
+    <task id="LOCAL-00027" summary="updates">
+      <created>1610141831088</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1610141831088</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,7 +324,13 @@
     <MESSAGE value="idea update" />
     <MESSAGE value="update with Docker" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="merge" />
+    <MESSAGE value="update" />
+    <MESSAGE value="Image compress and 404 fix" />
+    <MESSAGE value="404 fix" />
+    <MESSAGE value="image compressed" />
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -200,7 +338,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/docs/admin/netlify-cms.js</url>
           <line>178</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
