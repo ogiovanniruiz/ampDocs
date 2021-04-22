@@ -1,5 +1,5 @@
 ---
-title: Edit Phonebank Activity
+title: Edit Activity
 date: 2021-04-21T20:07:00.000Z
 thumbnail: false
 layout: docs
