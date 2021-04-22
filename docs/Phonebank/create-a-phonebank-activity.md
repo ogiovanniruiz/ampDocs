@@ -1,5 +1,5 @@
 ---
-title: Create Phonebank Activity
+title: Create Activity
 date: 2021-04-22T19:16:00.000Z
 thumbnail: false
 layout: docs
