@@ -4,7 +4,7 @@ date: 2021-04-22T09:01:05.090Z
 thumbnail: false
 layout: docs
 ---
-# Phonebank a Target 
+# Phonebank Targets 
 
 1. Navigate to the phonebank module, begin by clicking entering the activity.
 <br><br>
