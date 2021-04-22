@@ -14,7 +14,7 @@ Once you reset the activity all targets have been tagged with the listed script 
 <br><br>
 ![](../../images/edit-phonebank-step1.jpg)
 
-1. Next, click the red **Reset Activity** button.
+2. Next, click the red **Reset Activity** button.
 <br><br>
 ![](../../images/reset-phonebank-step1.jpg)
 
