@@ -4,7 +4,7 @@ date: 2021-04-21T20:07:00.000Z
 thumbnail: false
 layout: docs
 ---
-# Edit Phonebank Activity
+# Edit Activity
 
 1. First you will need to click on the orange pencil button on the activity card.
 <br><br>
