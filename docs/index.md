@@ -18,4 +18,3 @@ IE United was created with the intention to restructure leadership and culture 
 
 ## All data is firewalled
 
-## Suggestions

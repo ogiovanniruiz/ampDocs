@@ -8,6 +8,9 @@ theme:
   name: material
   favicon: overrides/images/favicon.ico
   logo: overrides/images/logo-white.png
+  features:
+    - navigation.expanded
+    - navigation.indexes
 
 nav:
   - Introduction: '/'
@@ -52,11 +55,11 @@ nav:
       - Phonebank Targets: 'Phonebank/phonebank-targets/'
       - Reset Activity: 'Phonebank/reset-activity/'
       - Unlock All Numbers: 'Phonebank/unlock-all-numbers/'
-  - Assets:
-      - Introduction: 'Assets/1.%20Introduction/'
-      - Create a COI: 'Assets/2.%20Create%20a%20COI/'
-      - Edit a COI: 'Assets/3.%20Edit%20a%20COI/'
-      - Clone a COI: 'Assets/4.%20Clone%20a%20COI/'
+  - Assets COI Tool:
+      - Introduction: 'Assets%20COI%20Tool/1.%20Introduction/'
+      - Create a COI: 'Assets%20COI%20Tool/2.%20Create%20a%20COI/'
+      - Edit a COI: 'Assets%20COI%20Tool/3.%20Edit%20a%20COI/'
+      - Clone a COI: 'Assets%20COI%20Tool/4.%20Clone%20a%20COI/'
 
 extra_css:
   - stylesheets/extra.css
